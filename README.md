@@ -31,7 +31,7 @@ lib/
 
 ## App Features:
 * Flutter + Firebase (Firestore, Authentication, Storage)
-  Test account: haonguyen.uet@gmail.com / 123456
+  Test account: farazhashmi055@gmail.com / 123456
 * Use BloC pattern
 * Responsive
 * User-friendly interface
